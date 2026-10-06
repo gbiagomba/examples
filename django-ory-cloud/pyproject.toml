@@ -6,7 +6,7 @@ authors = ["Andrew Minkin <minkin.andrew@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
-Django = "^4.0.4"
+Django = ">=4.0.4,<6.0.0"
 django-environ = "^0.8.1"
 django-ory-auth = "^0.1.3"
 
